@@ -5,8 +5,11 @@ These things I have implemented for Dynamic UI:
 •	Can drag and drop to draw a connection between source and target.
 <br>
 •	If type = “text/varchar” have dashed arrow with green color OR type = “integer” has solid arrow with blue color.
+<br>
 •	DELETE button to delete any mapping.
+<br>
 •	SAVE button to save the mappings.
+<br>
 Here I have used the React-archer package and imported Archer Container and Archer Element from the package.
 
 
